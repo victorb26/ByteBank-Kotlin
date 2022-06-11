@@ -1,6 +1,15 @@
-<h1># ByteBank-Kotlin</h1>
-Em construção :
+<h1 align='center'>
+    Byte Bank com Kotlin
+</h1>
 
-<div align "center>
-<img src="https://user-images.githubusercontent.com/96198078/170255130-9a220116-2b21-4fc5-ac5b-004c5d3fbec9.gif" width="500px">
-</div>
+# 🤔 Sobre
+<h3>Este pequeno projeto foi realizado com a prática do curso de Orientação a Objetos com Kotlin da Alura. </h3>
+
+
+# 💻Conceitos aprendidos:
+
+- Paradigmas Procedurais
+- Orientação a Objetos 
+- Properties
+- Constructor's
+- Labels
